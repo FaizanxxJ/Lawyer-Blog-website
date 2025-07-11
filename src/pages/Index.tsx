@@ -36,7 +36,7 @@ const Index = () => {
                 Justice Through 
                 <span className="text-gold-500"> Legal Excellence</span>
               </h1>
-              <p className="text-xl text-white mb-8 leading-relaxed">
+              <p className="text-xl text-navy-900 mb-8 leading-relaxed">
                 With over 15 years of experience in criminal defense, civil rights, and corporate law, 
                 I provide dedicated legal representation with unwavering commitment to your success.
               </p>
