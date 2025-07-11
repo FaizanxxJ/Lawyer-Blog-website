@@ -1,4 +1,3 @@
-
 import { useState, useMemo } from 'react';
 import { Search, Filter, Calendar, User, Tag } from 'lucide-react';
 import { Input } from '@/components/ui/input';
@@ -53,7 +52,7 @@ const Blog = () => {
             <h1 className="text-4xl lg:text-5xl font-bold font-sans mb-4">
               Legal Insights & Analysis
             </h1>
-            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
+            <p className="text-xl text-navy-900 max-w-3xl mx-auto">
               Stay informed with expert commentary, case studies, and legal developments 
               from years of courtroom experience and professional practice.
             </p>

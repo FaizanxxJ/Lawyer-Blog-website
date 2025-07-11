@@ -1,4 +1,3 @@
-
 import { Award, BookOpen, Scale, Users, GraduationCap, MapPin, Phone, Mail } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -68,7 +67,7 @@ const About = () => {
               <h1 className="text-4xl lg:text-5xl font-bold font-sans mb-6">
                 Alexandra Mitchell
               </h1>
-              <p className="text-xl text-gray-300 mb-8 leading-relaxed">
+              <p className="text-xl text-navy-900 mb-8 leading-relaxed">
                 Dedicated to justice, committed to excellence. With over 15 years of legal experience, 
                 I provide strategic representation and unwavering advocacy for my clients.
               </p>
@@ -76,7 +75,7 @@ const About = () => {
                 <Button size="lg" className="bg-gold-500 hover:bg-gold-600 text-navy-900 font-sans font-semibold" asChild>
                   <Link to="/contact">Schedule Consultation</Link>
                 </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-navy-900 font-sans" asChild>
+                <Button size="lg" variant="outline" className="border-navy-900 text-navy-900 bg-white hover:bg-navy-900 hover:text-white font-sans" asChild>
                   <Link to="/blog">Read Legal Insights</Link>
                 </Button>
               </div>

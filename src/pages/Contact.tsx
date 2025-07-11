@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -103,7 +102,7 @@ const Contact = () => {
           <h1 className="text-4xl lg:text-5xl font-bold font-sans mb-6">
             Get Legal Consultation
           </h1>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto">
+          <p className="text-xl text-navy-900 max-w-3xl mx-auto">
             Schedule a confidential consultation to discuss your legal needs. 
             Professional, experienced representation when you need it most.
           </p>
