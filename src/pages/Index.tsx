@@ -80,7 +80,7 @@ const Index = () => {
               <h2 className="text-3xl lg:text-4xl font-bold font-sans text-navy-900 mb-4">
                 Featured Legal Insight
               </h2>
-              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              <p className="text-xl text-gray-700 max-w-3xl mx-auto">
                 Stay informed with the latest legal analysis and professional insights 
                 from years of courtroom experience.
               </p>
@@ -112,7 +112,7 @@ const Index = () => {
               <h2 className="text-3xl lg:text-4xl font-bold font-sans text-navy-900 mb-6">
                 Alexandra Mitchell
               </h2>
-              <p className="text-lg text-gray-600 mb-6 leading-relaxed">
+              <p className="text-lg text-gray-800 mb-6 leading-relaxed">
                 With a distinguished career spanning over 15 years, I have dedicated my practice 
                 to defending the rights of individuals and businesses. My commitment to justice 
                 and legal excellence has resulted in numerous successful outcomes for my clients.
@@ -121,15 +121,15 @@ const Index = () => {
               <div className="space-y-4 mb-8">
                 <div>
                   <h4 className="font-sans font-semibold text-navy-900 mb-2">Education</h4>
-                  <p className="text-gray-600">J.D., Harvard Law School • B.A., Yale University</p>
+                  <p className="text-gray-800">J.D., Harvard Law School • B.A., Yale University</p>
                 </div>
                 <div>
                   <h4 className="font-sans font-semibold text-navy-900 mb-2">Bar Admissions</h4>
-                  <p className="text-gray-600">New York • California • Federal Courts</p>
+                  <p className="text-gray-800">New York • California • Federal Courts</p>
                 </div>
                 <div>
                   <h4 className="font-sans font-semibold text-navy-900 mb-2">Specializations</h4>
-                  <p className="text-gray-600">Criminal Defense • Civil Rights • Corporate Law • Family Law</p>
+                  <p className="text-gray-800">Criminal Defense • Civil Rights • Corporate Law • Family Law</p>
                 </div>
               </div>
 
@@ -151,7 +151,7 @@ const Index = () => {
             <h2 className="text-3xl lg:text-4xl font-bold font-sans text-navy-900 mb-4">
               Latest Legal Insights
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-gray-700 max-w-3xl mx-auto">
               Stay updated with the latest legal developments, case studies, and professional analysis.
             </p>
           </div>
